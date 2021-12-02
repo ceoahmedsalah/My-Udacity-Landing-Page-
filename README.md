@@ -4,7 +4,7 @@
 
 * [Introduction](#introduction)
 * [Features](#features)
-* [Additional_Features](#additional features)
+* [Additional Features](#Additional Features)
 
 ### Introduction 
 I used the starter project and convert this project from a static project to an interactive one. by using javascript file 
