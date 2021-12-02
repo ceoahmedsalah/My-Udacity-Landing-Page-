@@ -1,7 +1,5 @@
 # My-Udacity-Landing-Page-
 
-# Landing Page Project
-
 ## Table of Contents
 
 * [Introduction](#introduction)
